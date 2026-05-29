@@ -1,0 +1,7 @@
+:root { color-scheme: light dark; font-family: ui-serif, Georgia, serif; }
+body { margin: 0; line-height: 1.55; }
+main { max-width: 720px; margin: 0 auto; padding: 48px 20px; }
+a { color: currentColor; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+.feed { padding-left: 1.2rem; }
+.feed li { margin: 0.5rem 0; }
+time { color: #666; font-size: 0.9rem; }
