@@ -6,3 +6,6 @@ header span, time { color: #736b5c; }
 main { font-size: 1.05rem; line-height: 1.7; }
 a { color: #8a4b2a; }
 article { background: #fffdf8; border: 1px solid #e4ddcf; padding: 28px; }
+main section + section { display: none; }
+ol { list-style: none; margin: 0; padding: 0; }
+li { margin: 0 0 12px; }
