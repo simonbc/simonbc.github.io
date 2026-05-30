@@ -1,15 +1,12 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
-  "title": "Simon BC",
-  "home_page_url": "https://simonbc.github.io",
-  "feed_url": "https://simonbc.github.io/feed.json",
+  "title": "Simon Carstensen",
   "items": [
     {
-      "id": "hello",
-      "url": "https://simonbc.github.io/posts/hello/",
-      "title": "Hello from Reef",
-      "date_published": "2026-05-29",
-      "content_html": "<h1>Hello from Reef</h1>\n<p>This site was built from a separate Reef runtime directory at `~/sites/simonbc.github.io`.</p>\n<p>The source is local markdown. The published endpoint is GitHub Pages.</p>"
+      "id": "hello-world",
+      "url": "/posts/hello-world/",
+      "title": "Hello, world!",
+      "date_published": "2026-05-30"
     }
   ]
 }
